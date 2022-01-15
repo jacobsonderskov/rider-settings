@@ -1,0 +1,93 @@
+<keymap version="1" name="Visual Studio (macOS) copy" parent="Visual Studio OSX">
+  <action id="ActivateDatabaseToolWindow">
+    <keyboard-shortcut first-keystroke="meta 3" />
+  </action>
+  <action id="ActivateFavoritesToolWindow" />
+  <action id="ActivateFindToolWindow">
+    <keyboard-shortcut first-keystroke="meta alt f12" />
+  </action>
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="ctrl meta 1" />
+    <keyboard-shortcut first-keystroke="shift meta 1" />
+  </action>
+  <action id="Back">
+    <mouse-shortcut keystroke="button4" />
+    <keyboard-shortcut first-keystroke="ctrl home" />
+  </action>
+  <action id="ChangesView.ToggleCommitUi">
+    <keyboard-shortcut first-keystroke="meta 2" />
+    <keyboard-shortcut first-keystroke="shift meta k" />
+  </action>
+  <action id="CheckinProject">
+    <keyboard-shortcut first-keystroke="meta 2" />
+    <keyboard-shortcut first-keystroke="shift meta k" />
+  </action>
+  <action id="ClickLink">
+    <keyboard-shortcut first-keystroke="f12" />
+  </action>
+  <action id="CloseAllEditorsButActive">
+    <keyboard-shortcut first-keystroke="shift alt w" />
+  </action>
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="meta f4" />
+    <keyboard-shortcut first-keystroke="meta w" />
+  </action>
+  <action id="CloseProject">
+    <keyboard-shortcut first-keystroke="shift ctrl meta w" />
+  </action>
+  <action id="CodeInspection.OnEditor" />
+  <action id="Console.TableResult.NavigateForeignAction">
+    <keyboard-shortcut first-keystroke="f12" />
+  </action>
+  <action id="DuplicatesForm.SendToRight" />
+  <action id="FileChooser.GotoModule" />
+  <action id="FileChooser.GotoProject" />
+  <action id="Forward">
+    <mouse-shortcut keystroke="button5" />
+    <keyboard-shortcut first-keystroke="ctrl end" />
+  </action>
+  <action id="Git.Commit.Stage">
+    <keyboard-shortcut first-keystroke="meta 2" />
+    <keyboard-shortcut first-keystroke="shift meta k" />
+  </action>
+  <action id="GotoDeclaration">
+    <keyboard-shortcut first-keystroke="f12" />
+  </action>
+  <action id="GotoImplementation" />
+  <action id="Jdbc.OpenEditor.DDL">
+    <keyboard-shortcut first-keystroke="f12" />
+  </action>
+  <action id="ManageRecentProjects">
+    <keyboard-shortcut first-keystroke="shift meta o" />
+  </action>
+  <action id="NavigateToImmediateWindow">
+    <keyboard-shortcut first-keystroke="meta alt i" />
+  </action>
+  <action id="ReSharperGotoImplementation">
+    <keyboard-shortcut first-keystroke="meta f12" />
+    <mouse-shortcut keystroke="meta button1" />
+  </action>
+  <action id="SurroundWith">
+    <keyboard-shortcut first-keystroke="shift alt s" />
+  </action>
+  <action id="Vcs.Push">
+    <keyboard-shortcut first-keystroke="shift ctrl meta k" />
+  </action>
+  <action id="Vcs.ShowTabbedFileHistory">
+    <keyboard-shortcut first-keystroke="shift ctrl meta h" />
+  </action>
+  <action id="Vcs.UpdateProject">
+    <keyboard-shortcut first-keystroke="shift meta w" />
+  </action>
+  <action id="Vcs.VcsClone">
+    <keyboard-shortcut first-keystroke="shift ctrl meta o" />
+  </action>
+  <action id="osmedile.intellij.stringmanip.DecodeBase64Action">
+    <keyboard-shortcut first-keystroke="shift ctrl meta alt d" />
+  </action>
+  <action id="osmedile.intellij.stringmanip.EncodeBase64Action">
+    <keyboard-shortcut first-keystroke="shift ctrl meta alt e" />
+  </action>
+  <action id="preview.actions.ZoomOutAction" />
+  <action id="tasks.close" />
+</keymap>

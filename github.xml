@@ -1,0 +1,10 @@
+<application>
+  <component name="GithubAccounts">
+    <account name="jacobsonderskov" id="acba1043-31b2-4d3e-b819-198bbaef34e9">
+      <server host="github.com" />
+    </account>
+    <account name="jacob-emborg-sonderskov" id="9898e25c-8b1a-47ab-826d-a3d5df68ed1d">
+      <server host="github.schibsted.io" />
+    </account>
+  </component>
+</application>
