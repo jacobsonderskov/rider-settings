@@ -6,6 +6,7 @@
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="shift meta 1" />
   </action>
+  <action id="Android.CleanRun" />
   <action id="CheckinProject">
     <keyboard-shortcut first-keystroke="shift meta k" />
   </action>
@@ -16,7 +17,14 @@
     <keyboard-shortcut first-keystroke="shift alt w" />
   </action>
   <action id="DuplicatesForm.SendToRight" />
+  <action id="EditorToggleShowWhitespaces">
+    <keyboard-shortcut first-keystroke="meta r" second-keystroke="meta w" />
+  </action>
   <action id="FileChooser.GotoProject" />
+  <action id="Flutter.ExtractWidget">
+    <keyboard-shortcut first-keystroke="meta alt w" />
+    <keyboard-shortcut first-keystroke="meta r" second-keystroke="w" />
+  </action>
   <action id="Flutter.Toolbar.ReloadAction">
     <keyboard-shortcut first-keystroke="shift meta f5" />
   </action>
