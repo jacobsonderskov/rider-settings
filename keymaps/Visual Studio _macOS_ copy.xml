@@ -14,5 +14,8 @@
   </action>
   <action id="DuplicatesForm.SendToRight" />
   <action id="FileChooser.GotoProject" />
+  <action id="RiderManageRecentProjects">
+    <keyboard-shortcut first-keystroke="shift meta o" />
+  </action>
   <action id="tasks.close" />
 </keymap>
