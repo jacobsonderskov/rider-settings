@@ -26,6 +26,12 @@
   <action id="Flutter.Toolbar.RestartAction">
     <keyboard-shortcut first-keystroke="shift ctrl meta f5" />
   </action>
+  <action id="NextProjectWindow">
+    <keyboard-shortcut first-keystroke="ctrl meta tab" />
+  </action>
+  <action id="PreviousProjectWindow">
+    <keyboard-shortcut first-keystroke="shift ctrl meta tab" />
+  </action>
   <action id="RiderManageRecentProjects">
     <keyboard-shortcut first-keystroke="shift meta o" />
   </action>
