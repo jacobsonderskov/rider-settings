@@ -1,0 +1,18 @@
+<application>
+  <component name="dataSourceStorage" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="bas-sql-inst2.dus2.bas.qa01.dk-qa.ecg.so\inst2" read-only="true" uuid="bcdf4201-b05b-4006-bb7f-827c04518622">
+      <driver-ref>sqlserver.ms</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.microsoft.sqlserver.jdbc.SQLServerDriver</jdbc-driver>
+      <jdbc-url>jdbc:sqlserver://bas-sql-inst2.dus2.bas.qa01.dk-qa.ecg.so\inst2</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="bas-sql-inst1.dus2.bas.qa01.dk-qa.ecg.so\inst1" read-only="true" uuid="c07250e6-d180-486e-adf0-705a6a6c37b4">
+      <driver-ref>sqlserver.ms</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.microsoft.sqlserver.jdbc.SQLServerDriver</jdbc-driver>
+      <jdbc-url>jdbc:sqlserver://bas-sql-inst1.dus2.bas.qa01.dk-qa.ecg.so\inst1</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+  </component>
+</application>
