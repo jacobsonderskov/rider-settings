@@ -23,7 +23,6 @@
     </data-source>
     <data-source source="LOCAL" name="sho-sql-inst2.dus2.sho.qa01.dk-qa.ecg.so\inst2" read-only="true" uuid="c76a8920-94ca-429b-a23d-7335bd8a9a16">
       <driver-ref>sqlserver.ms</driver-ref>
-      <synchronize>true</synchronize>
       <jdbc-driver>com.microsoft.sqlserver.jdbc.SQLServerDriver</jdbc-driver>
       <jdbc-url>jdbc:sqlserver://sho-sql-inst2.dus2.sho.qa01.dk-qa.ecg.so\inst2</jdbc-url>
       <working-dir>$ProjectFileDir$</working-dir>
