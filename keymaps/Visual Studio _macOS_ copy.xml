@@ -32,8 +32,14 @@
   <action id="Flutter.Toolbar.RestartAction">
     <keyboard-shortcut first-keystroke="shift ctrl meta f5" />
   </action>
+  <action id="Git.Branches">
+    <keyboard-shortcut first-keystroke="shift ctrl meta b" />
+  </action>
   <action id="Git.Clone">
     <keyboard-shortcut first-keystroke="shift ctrl meta o" />
+  </action>
+  <action id="Git.Fetch">
+    <keyboard-shortcut first-keystroke="shift ctrl meta f" />
   </action>
   <action id="NextProjectWindow">
     <keyboard-shortcut first-keystroke="ctrl meta tab" />
