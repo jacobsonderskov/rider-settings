@@ -52,14 +52,14 @@
       <driver-ref>sqlserver.ms</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>com.microsoft.sqlserver.jdbc.SQLServerDriver</jdbc-driver>
-      <jdbc-url>jdbc:sqlserver://bin-sql-inst1.dus2.bin.qa02.dk-qa.ecg.so</jdbc-url>
+      <jdbc-url>jdbc:sqlserver://bin-sql-inst1.dus2.bin.qa02.dk-qa.ecg.so\inst1</jdbc-url>
       <working-dir>$ProjectFileDir$</working-dir>
     </data-source>
     <data-source source="LOCAL" name="bas-sql-inst1.dus2.bas.qa02.dk-qa.ecg.so\inst1" read-only="true" uuid="97363800-50e2-43b9-9e0f-9c08a969904e">
       <driver-ref>sqlserver.ms</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>com.microsoft.sqlserver.jdbc.SQLServerDriver</jdbc-driver>
-      <jdbc-url>jdbc:sqlserver://bas-sql-inst1.dus2.bas.qa02.dk-qa.ecg.so\INST1</jdbc-url>
+      <jdbc-url>jdbc:sqlserver://bas-sql-inst1.dus2.bas.qa02.dk-qa.ecg.so\inst1</jdbc-url>
       <working-dir>$ProjectFileDir$</working-dir>
     </data-source>
     <data-source source="LOCAL" name="bas-sql-inst1.dus2.bas.qa03.dk-qa.ecg.so\inst1" read-only="true" uuid="b920775f-c316-4e61-90f9-1426aa67e06c">
