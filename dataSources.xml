@@ -69,5 +69,11 @@
       <jdbc-url>jdbc:sqlserver://bas-sql-inst1.dus2.bas.qa03.dk-qa.ecg.so\inst1</jdbc-url>
       <working-dir>$ProjectFileDir$</working-dir>
     </data-source>
+    <data-source source="LOCAL" name="sho-sql-inst2.dus2.sho.qa03.dk-qa.ecg.so\inst2" uuid="90af8005-8bbd-4e19-8e92-50ca038941c7">
+      <driver-ref>sqlserver.ms</driver-ref>
+      <jdbc-driver>com.microsoft.sqlserver.jdbc.SQLServerDriver</jdbc-driver>
+      <jdbc-url>jdbc:sqlserver://sho-sql-inst2.dus2.sho.qa03.dk-qa.ecg.so\inst2</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
   </component>
 </application>
