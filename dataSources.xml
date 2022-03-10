@@ -24,7 +24,7 @@
       <jdbc-url>jdbc:sqlserver://sho-sql-inst2.dus2.sho.qa01.dk-qa.ecg.so\inst2</jdbc-url>
       <working-dir>$ProjectFileDir$</working-dir>
     </data-source>
-    <data-source source="LOCAL" name="@localhost" uuid="3763ca91-60b6-477c-ab59-6b8d19ff23cb">
+    <data-source source="LOCAL" name="@localhost" read-only="true" uuid="3763ca91-60b6-477c-ab59-6b8d19ff23cb">
       <driver-ref>sqlserver.ms</driver-ref>
       <jdbc-driver>com.microsoft.sqlserver.jdbc.SQLServerDriver</jdbc-driver>
       <jdbc-url>jdbc:sqlserver://localhost</jdbc-url>
