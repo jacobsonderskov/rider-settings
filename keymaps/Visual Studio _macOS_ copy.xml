@@ -19,6 +19,7 @@
     <keyboard-shortcut first-keystroke="shift ctrl meta w" />
   </action>
   <action id="DuplicatesForm.SendToRight" />
+  <action id="EditorAddOrRemoveCaret" />
   <action id="EditorCloneCaretAbove">
     <keyboard-shortcut first-keystroke="shift ctrl meta up" />
   </action>
