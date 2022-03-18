@@ -54,6 +54,9 @@
   <action id="RiderManageRecentProjects">
     <keyboard-shortcut first-keystroke="shift meta o" />
   </action>
+  <action id="RiderUnitTestOpenTestOutputInEditorAction">
+    <keyboard-shortcut first-keystroke="ctrl meta 8" />
+  </action>
   <action id="Vcs.Push">
     <keyboard-shortcut first-keystroke="shift ctrl meta k" />
   </action>
