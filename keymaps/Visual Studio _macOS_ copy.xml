@@ -47,6 +47,7 @@
   </action>
   <action id="NextProjectWindow">
     <keyboard-shortcut first-keystroke="ctrl meta tab" />
+    <keyboard-shortcut first-keystroke="shift meta less" />
   </action>
   <action id="PreviousProjectWindow">
     <keyboard-shortcut first-keystroke="shift ctrl meta tab" />
