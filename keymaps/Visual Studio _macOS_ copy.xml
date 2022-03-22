@@ -7,6 +7,9 @@
     <keyboard-shortcut first-keystroke="shift meta 1" />
   </action>
   <action id="Android.CleanRun" />
+  <action id="Annotate">
+    <keyboard-shortcut first-keystroke="shift ctrl meta a" />
+  </action>
   <action id="CheckinProject">
     <keyboard-shortcut first-keystroke="shift meta k" />
   </action>
@@ -16,9 +19,16 @@
   <action id="CloseAllEditorsButActive">
     <keyboard-shortcut first-keystroke="shift alt w" />
   </action>
+  <action id="CloseProject">
+    <keyboard-shortcut first-keystroke="shift ctrl meta w" />
+  </action>
   <action id="DuplicatesForm.SendToRight" />
-  <action id="EditorToggleShowWhitespaces">
-    <keyboard-shortcut first-keystroke="meta r" second-keystroke="meta w" />
+  <action id="EditorAddOrRemoveCaret" />
+  <action id="EditorCloneCaretAbove">
+    <keyboard-shortcut first-keystroke="shift ctrl meta up" />
+  </action>
+  <action id="EditorCloneCaretBelow">
+    <keyboard-shortcut first-keystroke="shift ctrl meta down" />
   </action>
   <action id="FileChooser.GotoProject" />
   <action id="Flutter.ExtractWidget">
@@ -35,6 +45,24 @@
   <action id="Flutter.Toolbar.RestartAction">
     <keyboard-shortcut first-keystroke="shift ctrl meta f5" />
   </action>
+  <action id="Git.Branches">
+    <keyboard-shortcut first-keystroke="shift ctrl meta b" />
+  </action>
+  <action id="Git.Clone">
+    <keyboard-shortcut first-keystroke="shift ctrl meta o" />
+  </action>
+  <action id="Git.Fetch">
+    <keyboard-shortcut first-keystroke="shift ctrl meta f" />
+  </action>
+  <action id="NextProjectWindow">
+    <keyboard-shortcut first-keystroke="ctrl meta tab" />
+  </action>
+  <action id="PreviousProjectWindow">
+    <keyboard-shortcut first-keystroke="shift ctrl meta tab" />
+  </action>
+  <action id="RiderManageRecentProjects">
+    <keyboard-shortcut first-keystroke="shift meta o" />
+  </action>
   <action id="Vcs.Push">
     <keyboard-shortcut first-keystroke="shift ctrl meta k" />
   </action>
@@ -43,6 +71,9 @@
   </action>
   <action id="android.deploy.CodeSwap">
     <keyboard-shortcut first-keystroke="shift ctrl meta e" />
+  </action>
+  <action id="Vcs.UpdateProject">
+    <keyboard-shortcut first-keystroke="shift ctrl meta u" />
   </action>
   <action id="tasks.close" />
 </keymap>
