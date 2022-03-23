@@ -1,9 +1,16 @@
 <keymap version="1" name="Visual Studio copy" parent="Visual Studio">
+  <action id="$Undo">
+    <keyboard-shortcut first-keystroke="ctrl z" />
+  </action>
   <action id="CheckinProject">
     <keyboard-shortcut first-keystroke="shift ctrl k" />
   </action>
   <action id="Git.Clone">
     <keyboard-shortcut first-keystroke="shift ctrl alt o" />
   </action>
-  <action id="Vcs.Push" />
+  <action id="Git.Commit.And.Push.Executor" />
+  <action id="Hg.Commit.And.Push.Executor" />
+  <action id="Vcs.Push">
+    <keyboard-shortcut first-keystroke="shift ctrl alt k" />
+  </action>
 </keymap>
