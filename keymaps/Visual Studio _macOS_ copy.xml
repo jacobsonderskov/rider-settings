@@ -67,6 +67,9 @@
   <action id="RiderUnitTestOpenTestOutputInEditorAction">
     <keyboard-shortcut first-keystroke="shift ctrl meta 8" />
   </action>
+  <action id="SurroundWith">
+    <keyboard-shortcut first-keystroke="shift ctrl alt space" />
+  </action>
   <action id="Vcs.Push">
     <keyboard-shortcut first-keystroke="shift ctrl meta k" />
   </action>
