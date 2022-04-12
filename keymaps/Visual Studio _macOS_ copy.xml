@@ -1,4 +1,7 @@
 <keymap version="1" name="Visual Studio (macOS) copy" parent="Visual Studio OSX">
+  <action id="$LRU">
+    <keyboard-shortcut first-keystroke="shift meta o" />
+  </action>
   <action id="ActivateCommitToolWindow">
     <keyboard-shortcut first-keystroke="meta 2" />
   </action>
@@ -23,6 +26,9 @@
     <keyboard-shortcut first-keystroke="shift ctrl meta w" />
   </action>
   <action id="DuplicatesForm.SendToRight" />
+  <action id="Editor LRU">
+    <keyboard-shortcut first-keystroke="shift meta o" />
+  </action>
   <action id="EditorAddOrRemoveCaret" />
   <action id="EditorCloneCaretAbove">
     <keyboard-shortcut first-keystroke="shift ctrl meta up" />
