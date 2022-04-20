@@ -9,6 +9,12 @@
   <action id="Annotate">
     <keyboard-shortcut first-keystroke="shift ctrl meta a" />
   </action>
+  <action id="Back">
+    <keyboard-shortcut first-keystroke="meta minus" />
+    <keyboard-shortcut first-keystroke="meta subtract" />
+    <mouse-shortcut keystroke="button4" />
+    <keyboard-shortcut first-keystroke="ctrl home" />
+  </action>
   <action id="CheckinProject">
     <keyboard-shortcut first-keystroke="shift meta k" />
   </action>
@@ -35,6 +41,12 @@
   </action>
   <action id="Flutter.Toolbar.RestartAction">
     <keyboard-shortcut first-keystroke="shift ctrl meta f5" />
+  </action>
+  <action id="Forward">
+    <keyboard-shortcut first-keystroke="shift meta minus" />
+    <keyboard-shortcut first-keystroke="shift meta subtract" />
+    <mouse-shortcut keystroke="button5" />
+    <keyboard-shortcut first-keystroke="ctrl end" />
   </action>
   <action id="Git.Branches">
     <keyboard-shortcut first-keystroke="shift ctrl meta b" />
