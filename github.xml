@@ -1,7 +1,7 @@
 <application>
   <component name="GithubAccounts">
-    <account name="jacob-emborg-sonderskov" id="f394cf72-ab8b-4bb9-9824-b5184484dec7">
-      <server useHttp="false" host="github.schibsted.io" />
+    <account name="jacob-emborg-sonderskov" id="5c65e631-77e3-4036-bbf9-bfd9470a8d02">
+      <server host="github.schibsted.io" />
     </account>
   </component>
 </application>

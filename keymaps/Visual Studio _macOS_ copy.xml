@@ -1,10 +1,28 @@
 <keymap version="1" name="Visual Studio (macOS) copy" parent="Visual Studio OSX">
-  <action id="ActivateCommitToolWindow">
-    <keyboard-shortcut first-keystroke="meta 2" />
-  </action>
+  <action id="ActivateBookmarksToolWindow" />
   <action id="ActivateFavoritesToolWindow" />
+  <action id="ActivateProblemsViewToolWindow" />
+  <action id="ActivateServicesToolWindow">
+    <keyboard-shortcut first-keystroke="meta 6" />
+  </action>
+  <action id="ActivateTODOToolWindow">
+    <keyboard-shortcut first-keystroke="meta 9" />
+  </action>
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="shift meta 1" />
+  </action>
+  <action id="ActivateVersionControlToolWindow">
+    <keyboard-shortcut first-keystroke="meta 2" />
+  </action>
+  <action id="Android.CleanRun" />
+  <action id="Annotate">
+    <keyboard-shortcut first-keystroke="shift ctrl meta a" />
+  </action>
+  <action id="Back">
+    <keyboard-shortcut first-keystroke="meta minus" />
+    <keyboard-shortcut first-keystroke="meta subtract" />
+    <mouse-shortcut keystroke="button4" />
+    <keyboard-shortcut first-keystroke="ctrl home" />
   </action>
   <action id="CheckinProject">
     <keyboard-shortcut first-keystroke="shift meta k" />
@@ -19,6 +37,7 @@
     <keyboard-shortcut first-keystroke="shift ctrl meta w" />
   </action>
   <action id="DuplicatesForm.SendToRight" />
+  <action id="EditorAddOrRemoveCaret" />
   <action id="EditorCloneCaretAbove">
     <keyboard-shortcut first-keystroke="shift ctrl meta up" />
   </action>
@@ -26,11 +45,25 @@
     <keyboard-shortcut first-keystroke="shift ctrl meta down" />
   </action>
   <action id="FileChooser.GotoProject" />
+  <action id="Flutter.ExtractWidget">
+    <keyboard-shortcut first-keystroke="meta alt w" />
+    <keyboard-shortcut first-keystroke="meta r" second-keystroke="w" />
+  </action>
+  <action id="Flutter.ExtractWidgetToFile">
+    <keyboard-shortcut first-keystroke="meta alt e" />
+    <keyboard-shortcut first-keystroke="meta r" second-keystroke="e" />
+  </action>
   <action id="Flutter.Toolbar.ReloadAction">
     <keyboard-shortcut first-keystroke="shift meta f5" />
   </action>
   <action id="Flutter.Toolbar.RestartAction">
     <keyboard-shortcut first-keystroke="shift ctrl meta f5" />
+  </action>
+  <action id="Forward">
+    <keyboard-shortcut first-keystroke="shift meta minus" />
+    <keyboard-shortcut first-keystroke="shift meta subtract" />
+    <mouse-shortcut keystroke="button5" />
+    <keyboard-shortcut first-keystroke="ctrl end" />
   </action>
   <action id="Git.Branches">
     <keyboard-shortcut first-keystroke="shift ctrl meta b" />
@@ -41,8 +74,18 @@
   <action id="Git.Fetch">
     <keyboard-shortcut first-keystroke="shift ctrl meta f" />
   </action>
+  <action id="GotoImplementation">
+    <keyboard-shortcut first-keystroke="alt end" />
+    <mouse-shortcut keystroke="meta alt button1" />
+    <mouse-shortcut keystroke="shift meta button1" />
+  </action>
+  <action id="GotoTypeDeclaration">
+    <keyboard-shortcut first-keystroke="shift meta f11" />
+    <mouse-shortcut keystroke="shift button2" />
+  </action>
   <action id="NextProjectWindow">
     <keyboard-shortcut first-keystroke="ctrl meta tab" />
+    <keyboard-shortcut first-keystroke="shift meta less" />
   </action>
   <action id="PreviousProjectWindow">
     <keyboard-shortcut first-keystroke="shift ctrl meta tab" />
@@ -50,8 +93,20 @@
   <action id="RiderManageRecentProjects">
     <keyboard-shortcut first-keystroke="shift meta o" />
   </action>
+  <action id="RiderUnitTestOpenTestOutputInEditorAction">
+    <keyboard-shortcut first-keystroke="shift ctrl meta 8" />
+  </action>
+  <action id="SurroundWith">
+    <keyboard-shortcut first-keystroke="shift ctrl alt space" />
+  </action>
   <action id="Vcs.Push">
     <keyboard-shortcut first-keystroke="shift ctrl meta k" />
+  </action>
+  <action id="android.deploy.ApplyChanges">
+    <keyboard-shortcut first-keystroke="ctrl meta e" />
+  </action>
+  <action id="android.deploy.CodeSwap">
+    <keyboard-shortcut first-keystroke="shift ctrl meta e" />
   </action>
   <action id="Vcs.UpdateProject">
     <keyboard-shortcut first-keystroke="shift ctrl meta u" />
