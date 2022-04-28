@@ -14,6 +14,7 @@
   <action id="ActivateVersionControlToolWindow">
     <keyboard-shortcut first-keystroke="meta 2" />
   </action>
+  <action id="Android.CleanRun" />
   <action id="Annotate">
     <keyboard-shortcut first-keystroke="shift ctrl meta a" />
   </action>
@@ -44,6 +45,14 @@
     <keyboard-shortcut first-keystroke="shift ctrl meta down" />
   </action>
   <action id="FileChooser.GotoProject" />
+  <action id="Flutter.ExtractWidget">
+    <keyboard-shortcut first-keystroke="meta alt w" />
+    <keyboard-shortcut first-keystroke="meta r" second-keystroke="w" />
+  </action>
+  <action id="Flutter.ExtractWidgetToFile">
+    <keyboard-shortcut first-keystroke="meta alt e" />
+    <keyboard-shortcut first-keystroke="meta r" second-keystroke="e" />
+  </action>
   <action id="Flutter.Toolbar.ReloadAction">
     <keyboard-shortcut first-keystroke="shift meta f5" />
   </action>
@@ -92,6 +101,12 @@
   </action>
   <action id="Vcs.Push">
     <keyboard-shortcut first-keystroke="shift ctrl meta k" />
+  </action>
+  <action id="android.deploy.ApplyChanges">
+    <keyboard-shortcut first-keystroke="ctrl meta e" />
+  </action>
+  <action id="android.deploy.CodeSwap">
+    <keyboard-shortcut first-keystroke="shift ctrl meta e" />
   </action>
   <action id="Vcs.UpdateProject">
     <keyboard-shortcut first-keystroke="shift ctrl meta u" />
