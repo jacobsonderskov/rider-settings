@@ -1,4 +1,10 @@
 <keymap version="1" name="Visual Studio (macOS) copy" parent="Visual Studio OSX">
+  <action id="$LRU">
+    <keyboard-shortcut first-keystroke="shift meta o" />
+  </action>
+ <action id="ActivateCommitToolWindow">
+    <keyboard-shortcut first-keystroke="meta 2" />
+  </action>
   <action id="ActivateBookmarksToolWindow" />
   <action id="ActivateFavoritesToolWindow" />
   <action id="ActivateProblemsViewToolWindow" />
@@ -14,15 +20,15 @@
   <action id="ActivateVersionControlToolWindow">
     <keyboard-shortcut first-keystroke="meta 2" />
   </action>
-  <action id="Android.CleanRun" />
-  <action id="Annotate">
-    <keyboard-shortcut first-keystroke="shift ctrl meta a" />
-  </action>
   <action id="Back">
     <keyboard-shortcut first-keystroke="meta minus" />
     <keyboard-shortcut first-keystroke="meta subtract" />
     <mouse-shortcut keystroke="button4" />
     <keyboard-shortcut first-keystroke="ctrl home" />
+  </action>
+  <action id="Android.CleanRun" />
+  <action id="Annotate">
+    <keyboard-shortcut first-keystroke="shift ctrl meta a" />
   </action>
   <action id="CheckinProject">
     <keyboard-shortcut first-keystroke="shift meta k" />
@@ -36,7 +42,14 @@
   <action id="CloseProject">
     <keyboard-shortcut first-keystroke="shift ctrl meta w" />
   </action>
+  <action id="CompileDirty">
+    <keyboard-shortcut first-keystroke="f7" />
+    <keyboard-shortcut first-keystroke="shift meta b" />
+  </action>
   <action id="DuplicatesForm.SendToRight" />
+  <action id="Editor LRU">
+    <keyboard-shortcut first-keystroke="shift meta o" />
+  </action>
   <action id="EditorAddOrRemoveCaret" />
   <action id="EditorCloneCaretAbove">
     <keyboard-shortcut first-keystroke="shift ctrl meta up" />
