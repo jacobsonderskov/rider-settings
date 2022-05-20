@@ -2,26 +2,50 @@
   <action id="$Undo">
     <keyboard-shortcut first-keystroke="ctrl z" />
   </action>
+  <action id="ActivateBookmarksToolWindow" />
+  <action id="ActivateDatabaseToolWindow">
+    <keyboard-shortcut first-keystroke="alt 2" />
+  </action>
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="shift alt 1" />
   </action>
   <action id="CheckinProject">
     <keyboard-shortcut first-keystroke="shift ctrl k" />
   </action>
+  <action id="DatabaseView.OpenDdlInConsole" />
+  <action id="Git.Branches">
+    <keyboard-shortcut first-keystroke="shift alt b" />
+  </action>
   <action id="Git.Clone">
     <keyboard-shortcut first-keystroke="shift ctrl alt o" />
   </action>
   <action id="Git.Commit.And.Push.Executor" />
+  <action id="Git.Commit.Stage">
+    <keyboard-shortcut first-keystroke="shift alt k" />
+  </action>
+  <action id="Git.Fetch">
+    <keyboard-shortcut first-keystroke="shift alt u" />
+  </action>
+  <action id="Github.View.Pull.Request">
+    <keyboard-shortcut first-keystroke="shift ctrl alt b" />
+  </action>
   <action id="Hg.Commit.And.Push.Executor" />
   <action id="RecentFiles" />
   <action id="RiderManageRecentProjects">
     <keyboard-shortcut first-keystroke="shift ctrl o" />
   </action>
   <action id="RiderOpenSolution" />
+  <action id="RiderUnitTestQuickListPopupAction" />
   <action id="ShowSettings">
     <keyboard-shortcut first-keystroke="ctrl comma" />
   </action>
+  <action id="ShowUmlDiagram" />
   <action id="Vcs.Push">
     <keyboard-shortcut first-keystroke="shift ctrl alt k" />
   </action>
+  <action id="Vcs.UpdateProject">
+    <keyboard-shortcut first-keystroke="shift ctrl alt u" />
+  </action>
+  <action id="sql.SelectInDatabaseView" />
+  <action id="tasks.open.in.browser" />
 </keymap>
