@@ -15,6 +15,8 @@
               <option value="System.Threading.ThreadAbortException" />
               <option value="System.Web.HttpException" />
               <option value="System.InvalidOperationException" />
+              <option value="System.ApplicationException" />
+              <option value="Castle.MicroKernel.ComponentActivator.ComponentActivatorException" />
             </list>
           </option>
         </configuration>
