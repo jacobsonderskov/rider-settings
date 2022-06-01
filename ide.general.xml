@@ -11,7 +11,9 @@
   <component name="StatusBar">
     <option name="widgets">
       <map>
-        <entry key="SolutionAnalysisText" value="false" />
+        <entry key="Memory" value="true" />
+        <entry key="PowerSaveMode" value="true" />
+        <entry key="RiderMemory" value="true" />
       </map>
     </option>
   </component>
