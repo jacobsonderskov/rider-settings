@@ -12,6 +12,12 @@
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="shift alt 1" />
   </action>
+  <action id="Back">
+    <keyboard-shortcut first-keystroke="ctrl minus" />
+    <keyboard-shortcut first-keystroke="ctrl subtract" />
+    <mouse-shortcut keystroke="button4" />
+    <keyboard-shortcut first-keystroke="alt left" />
+  </action>
   <action id="CheckinProject">
     <keyboard-shortcut first-keystroke="shift alt k" />
   </action>
@@ -23,6 +29,16 @@
   </action>
   <action id="DatabaseView.OpenDdlInConsole" />
   <action id="DumpLookupElementWeights" />
+  <action id="EditorUnSelectWord">
+    <keyboard-shortcut first-keystroke="shift alt minus" />
+    <keyboard-shortcut first-keystroke="shift ctrl w" />
+  </action>
+  <action id="Forward">
+    <keyboard-shortcut first-keystroke="shift ctrl minus" />
+    <keyboard-shortcut first-keystroke="shift ctrl subtract" />
+    <mouse-shortcut keystroke="button5" />
+    <keyboard-shortcut first-keystroke="alt right" />
+  </action>
   <action id="Git.Branches">
     <keyboard-shortcut first-keystroke="shift alt b" />
   </action>
@@ -47,6 +63,8 @@
     <keyboard-shortcut first-keystroke="shift ctrl f11" />
   </action>
   <action id="Hg.Commit.And.Push.Executor" />
+  <action id="NextTab" />
+  <action id="PreviousTab" />
   <action id="RecentFiles" />
   <action id="RiderManageRecentProjects">
     <keyboard-shortcut first-keystroke="shift alt o" />
@@ -58,6 +76,14 @@
     <keyboard-shortcut first-keystroke="ctrl comma" />
   </action>
   <action id="ShowUmlDiagram" />
+  <action id="SmartUnSelect">
+    <keyboard-shortcut first-keystroke="shift alt minus" />
+    <keyboard-shortcut first-keystroke="shift ctrl w" />
+  </action>
+  <action id="TableResult.ShrinkSelection">
+    <keyboard-shortcut first-keystroke="shift alt minus" />
+    <keyboard-shortcut first-keystroke="shift ctrl w" />
+  </action>
   <action id="Vcs.Push">
     <keyboard-shortcut first-keystroke="shift ctrl alt k" />
   </action>
