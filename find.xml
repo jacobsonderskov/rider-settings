@@ -3,15 +3,16 @@
     <option name="customScope" value="Solution" />
     <option name="defaultScopeName" value="Solution" />
     <option name="SEARCH_SCOPE" value="Solution" />
+    <option name="FILE_MASK" value="*.cs" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
-    <mask>*.cs</mask>
     <mask>*.json</mask>
     <mask>paket.*</mask>
     <mask>*.ts</mask>
     <mask>*.sql</mask>
     <mask>*DEALER*</mask>
     <mask>*.config</mask>
+    <mask>*.cs</mask>
   </component>
 </application>
