@@ -66,5 +66,41 @@
       <jdbc-url>jdbc:sqlserver://sho-sql-inst2.dus2.sho.qa03.dk-qa.ecg.so\inst2</jdbc-url>
       <working-dir>$ProjectFileDir$</working-dir>
     </data-source>
+    <data-source source="LOCAL" name="QA01 dba-sql-inst1.dus2.dba.qa01.dk-qa.ecg.so/inst1" uuid="598de589-0968-483e-814f-56cdd41aede5">
+      <driver-ref>sqlserver.ms</driver-ref>
+      <jdbc-driver>com.microsoft.sqlserver.jdbc.SQLServerDriver</jdbc-driver>
+      <jdbc-url>jdbc:sqlserver://dba-sql-inst1.dus2.dba.qa01.dk-qa.ecg.so\inst1</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="QA01 dba-sql-inst2.dus2.dba.qa01.dk-qa.ecg.so/inst2" uuid="5b0e2e84-a31a-495d-8c9b-e96703008955">
+      <driver-ref>sqlserver.ms</driver-ref>
+      <jdbc-driver>com.microsoft.sqlserver.jdbc.SQLServerDriver</jdbc-driver>
+      <jdbc-url>jdbc:sqlserver://dba-sql-inst2.dus2.dba.qa01.dk-qa.ecg.so\inst2</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="QA02 dba-sql-inst1.dus2.dba.qa02.dk-qa.ecg.so/inst1" uuid="597fca85-8f7b-4f43-99fb-e028b43b7539">
+      <driver-ref>sqlserver.ms</driver-ref>
+      <jdbc-driver>com.microsoft.sqlserver.jdbc.SQLServerDriver</jdbc-driver>
+      <jdbc-url>jdbc:sqlserver://dba-sql-inst1.dus2.dba.qa02.dk-qa.ecg.so\inst1</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="QA03 dba-sql-inst1.dus2.dba.qa03.dk-qa.ecg.so/inst1" uuid="9ddeb186-7916-4528-8cde-2a1f8c032e36">
+      <driver-ref>sqlserver.ms</driver-ref>
+      <jdbc-driver>com.microsoft.sqlserver.jdbc.SQLServerDriver</jdbc-driver>
+      <jdbc-url>jdbc:sqlserver://dba-sql-inst1.dus2.dba.qa03.dk-qa.ecg.so\inst1</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="QA02 dba-sql-inst2.dus2.dba.qa02.dk-qa.ecg.so/inst2" uuid="3ad9a0b9-d703-443c-a643-bbbaaff562a2">
+      <driver-ref>sqlserver.ms</driver-ref>
+      <jdbc-driver>com.microsoft.sqlserver.jdbc.SQLServerDriver</jdbc-driver>
+      <jdbc-url>jdbc:sqlserver://dba-sql-inst2.dus2.dba.qa02.dk-qa.ecg.so\inst2</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="QA03 dba-sql-inst2.dus2.dba.qa03.dk-qa.ecg.so/inst2" uuid="d1db902e-13e7-4083-9825-f5bc9012509e">
+      <driver-ref>sqlserver.ms</driver-ref>
+      <jdbc-driver>com.microsoft.sqlserver.jdbc.SQLServerDriver</jdbc-driver>
+      <jdbc-url>jdbc:sqlserver://dba-sql-inst2.dus2.dba.qa03.dk-qa.ecg.so\inst2</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
   </component>
 </application>
