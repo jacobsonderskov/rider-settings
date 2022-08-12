@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Cleanup" />
-    <option name="defaultScopeName" value="Cleanup" />
-    <option name="SEARCH_SCOPE" value="Cleanup" />
+    <option name="customScope" value="C#" />
+    <option name="defaultScopeName" value="C#" />
+    <option name="SEARCH_SCOPE" value="C#" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
