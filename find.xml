@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="C#" />
-    <option name="defaultScopeName" value="C#" />
-    <option name="SEARCH_SCOPE" value="C#" />
+    <option name="customScope" value="File '…\Tests\Ecgdk.Sho.Advertising.Tests\Integration\TargetingControllerTests.cs'" />
+    <option name="defaultScopeName" value="File '…\Tests\Ecgdk.Sho.Advertising.Tests\Integration\TargetingControllerTests.cs'" />
+    <option name="SEARCH_SCOPE" value="File '…\Tests\Ecgdk.Sho.Advertising.Tests\Integration\TargetingControllerTests.cs'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
