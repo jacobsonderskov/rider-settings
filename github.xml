@@ -3,5 +3,8 @@
     <account name="jacobsonderskov" id="36d2b113-88d1-4be7-8dad-cbed7e74054a">
       <server host="github.com" />
     </account>
+    <account name="jacob-emborg-sonderskov" id="19aa1925-7dde-4310-a0b8-d717fab3ac5c">
+      <server host="github.schibsted.io" />
+    </account>
   </component>
 </application>
