@@ -30,6 +30,7 @@
     <mouse-shortcut keystroke="button4" />
     <keyboard-shortcut first-keystroke="ctrl home" />
   </action>
+  <action id="ChangesView.Move" />
   <action id="CheckinProject">
     <keyboard-shortcut first-keystroke="shift meta k" />
   </action>
@@ -57,6 +58,7 @@
   <action id="EditorCloneCaretBelow">
     <keyboard-shortcut first-keystroke="shift ctrl meta down" />
   </action>
+  <action id="EditorDeleteLine" />
   <action id="FileChooser.GotoProject" />
   <action id="Flutter.ExtractWidget">
     <keyboard-shortcut first-keystroke="meta alt w" />
@@ -87,6 +89,7 @@
   <action id="Git.Fetch">
     <keyboard-shortcut first-keystroke="shift ctrl meta f" />
   </action>
+  <action id="GotoAction" />
   <action id="GotoImplementation">
     <keyboard-shortcut first-keystroke="alt end" />
     <mouse-shortcut keystroke="meta alt button1" />
@@ -96,12 +99,17 @@
     <keyboard-shortcut first-keystroke="shift meta f11" />
     <mouse-shortcut keystroke="shift button2" />
   </action>
+  <action id="Jdbc.OpenConsole.New" />
   <action id="NextProjectWindow">
     <keyboard-shortcut first-keystroke="ctrl meta tab" />
     <keyboard-shortcut first-keystroke="shift meta less" />
   </action>
+  <action id="NextTab" />
   <action id="PreviousProjectWindow">
     <keyboard-shortcut first-keystroke="shift ctrl meta tab" />
+  </action>
+  <action id="PreviousTab">
+    <keyboard-shortcut first-keystroke="ctrl left" />
   </action>
   <action id="RiderManageRecentProjects">
     <keyboard-shortcut first-keystroke="shift meta o" />
@@ -112,6 +120,7 @@
   <action id="SurroundWith">
     <keyboard-shortcut first-keystroke="shift ctrl alt space" />
   </action>
+  <action id="Vcs.MoveChangedLinesToChangelist" />
   <action id="Vcs.Push">
     <keyboard-shortcut first-keystroke="shift ctrl meta k" />
   </action>
