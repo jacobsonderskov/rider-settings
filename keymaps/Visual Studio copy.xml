@@ -78,6 +78,9 @@
     <keyboard-shortcut first-keystroke="ctrl u" second-keystroke="a" />
   </action>
   <action id="SelectVirtualTemplateElement" />
+  <action id="ShowSettings">
+    <keyboard-shortcut first-keystroke="ctrl comma" />
+  </action>
   <action id="ShowUmlDiagram" />
   <action id="SmartUnSelect">
     <keyboard-shortcut first-keystroke="shift alt minus" />
