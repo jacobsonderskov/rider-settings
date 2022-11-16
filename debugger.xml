@@ -16,6 +16,7 @@
               <option value="System.ApplicationException" />
               <option value="Castle.MicroKernel.ComponentActivator.ComponentActivatorException" />
               <option value="System.Web.HttpException" />
+              <option value="System.InvalidOperationException" />
             </list>
           </option>
         </configuration>
