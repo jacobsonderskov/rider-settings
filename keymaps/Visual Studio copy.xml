@@ -21,6 +21,12 @@
   <action id="CheckinProject">
     <keyboard-shortcut first-keystroke="shift alt k" />
   </action>
+  <action id="CloneCaretAboveWithVirtualSpace">
+    <keyboard-shortcut first-keystroke="shift ctrl alt up" />
+  </action>
+  <action id="CloneCaretBelowWithVirtualSpace">
+    <keyboard-shortcut first-keystroke="shift ctrl alt down" />
+  </action>
   <action id="CloseAllEditors">
     <keyboard-shortcut first-keystroke="shift ctrl alt w" />
   </action>
@@ -63,9 +69,13 @@
     <keyboard-shortcut first-keystroke="shift ctrl f11" />
   </action>
   <action id="Hg.Commit.And.Push.Executor" />
+  <action id="MoveStatementDown" />
+  <action id="MoveStatementUp" />
   <action id="NextTab" />
   <action id="PreviousTab" />
   <action id="RecentFiles" />
+  <action id="ResizeToolWindowDown" />
+  <action id="ResizeToolWindowUp" />
   <action id="RiderManageRecentProjects">
     <keyboard-shortcut first-keystroke="shift alt o" />
   </action>
