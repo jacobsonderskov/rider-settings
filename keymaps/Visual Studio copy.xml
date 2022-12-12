@@ -87,6 +87,9 @@
   <action id="RiderUnitTestRunTreeSplitAction">
     <keyboard-shortcut first-keystroke="ctrl u" second-keystroke="a" />
   </action>
+  <action id="SaveAsTemplate">
+    <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="a" />
+  </action>
   <action id="SelectVirtualTemplateElement" />
   <action id="ShowSettings">
     <keyboard-shortcut first-keystroke="ctrl comma" />
