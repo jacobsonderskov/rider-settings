@@ -3,6 +3,7 @@
     <option name="enabledBlacklistToolWindowsId">
       <set>
         <option value="IL Viewer" />
+        <option value="TODO" />
         <option value="Unit Tests" />
       </set>
     </option>
