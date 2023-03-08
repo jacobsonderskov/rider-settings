@@ -89,6 +89,7 @@
   <action id="RiderUnitTestAppendTestsAction">
     <keyboard-shortcut first-keystroke="ctrl u" second-keystroke="ctrl a" />
   </action>
+  <action id="RiderUnitTestFocusSessionAction" />
   <action id="RiderUnitTestQuickListPopupAction" />
   <action id="RiderUnitTestRunTreeSplitAction">
     <keyboard-shortcut first-keystroke="ctrl u" second-keystroke="a" />
@@ -97,6 +98,7 @@
     <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="a" />
   </action>
   <action id="SelectVirtualTemplateElement" />
+  <action id="ServiceView.GroupByContributor" />
   <action id="ShowSettings">
     <keyboard-shortcut first-keystroke="ctrl comma" />
   </action>
@@ -106,13 +108,14 @@
     <keyboard-shortcut first-keystroke="shift ctrl w" />
   </action>
   <action id="SurroundWith">
-    <keyboard-shortcut first-keystroke="ctrl alt s" />
+    <keyboard-shortcut first-keystroke="ctrl alt t" />
   </action>
   <action id="TableResult.ShrinkSelection">
     <keyboard-shortcut first-keystroke="shift alt minus" />
     <keyboard-shortcut first-keystroke="shift ctrl w" />
   </action>
   <action id="UpdateRunningApplication" />
+  <action id="UsageGrouping.UsageType" />
   <action id="Vcs.Push">
     <keyboard-shortcut first-keystroke="shift ctrl alt k" />
   </action>
