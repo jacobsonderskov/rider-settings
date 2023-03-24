@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'Ecgdk.Sho.Advertising.PublicWebApi'" />
-    <option name="defaultScopeName" value="Project 'Ecgdk.Sho.Advertising.PublicWebApi'" />
-    <option name="SEARCH_SCOPE" value="Project 'Ecgdk.Sho.Advertising.PublicWebApi'" />
+    <option name="customScope" value="Project 'Ecgdk.Sho.Advertising.Common'" />
+    <option name="defaultScopeName" value="Project 'Ecgdk.Sho.Advertising.Common'" />
+    <option name="SEARCH_SCOPE" value="Project 'Ecgdk.Sho.Advertising.Common'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
