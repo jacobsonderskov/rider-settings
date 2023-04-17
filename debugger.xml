@@ -7,7 +7,6 @@
     <debuggers>
       <debugger id="dotnet_debugger">
         <configuration>
-          <option name="breakOnUserUnhandledExceptions" value="true" />
           <option name="userUnhandledExceptionsIgnoreList">
             <list>
               <option value="System.OperationCanceledException" />
@@ -17,6 +16,7 @@
               <option value="Castle.MicroKernel.ComponentActivator.ComponentActivatorException" />
               <option value="System.Web.HttpException" />
               <option value="System.InvalidOperationException" />
+              <option value="NUnit.Framework.AssertionException" />
             </list>
           </option>
         </configuration>
