@@ -1,6 +1,6 @@
 <application>
   <component name="TerminalOptionsProvider">
-    <option name="myShellPath" value="C:\WINDOWS\system32\wsl.exe -d Ubuntu" />
-    <option name="myTabName" value="Ubuntu?" />
+    <option name="myShellPath" value="&quot;C:\Program Files\PowerShell\7\pwsh.exe&quot;" />
+    <option name="myTabName" value="PWSH7" />
   </component>
 </application>
