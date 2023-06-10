@@ -101,6 +101,9 @@
   <action id="SaveAsTemplate">
     <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="a" />
   </action>
+  <action id="SelectInProjectView">
+    <keyboard-shortcut first-keystroke="shift alt l" />
+  </action>
   <action id="SelectVirtualTemplateElement" />
   <action id="ServiceView.GroupByContributor" />
   <action id="ShowSettings">
@@ -132,6 +135,7 @@
   <action id="android.deploy.CodeSwap">
     <keyboard-shortcut first-keystroke="ctrl alt f10" />
   </action>
+  <action id="context.load" />
   <action id="copilot.requestCompletions">
     <keyboard-shortcut first-keystroke="alt back_slash" />
     <keyboard-shortcut first-keystroke="shift ctrl alt space" />
