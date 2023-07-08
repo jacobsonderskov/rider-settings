@@ -101,12 +101,11 @@
   </action>
   <action id="Jdbc.OpenConsole.New" />
   <action id="NextProjectWindow">
-    <keyboard-shortcut first-keystroke="ctrl meta tab" />
-    <keyboard-shortcut first-keystroke="shift meta less" />
+    <keyboard-shortcut first-keystroke="meta less" />
   </action>
   <action id="NextTab" />
   <action id="PreviousProjectWindow">
-    <keyboard-shortcut first-keystroke="shift ctrl meta tab" />
+    <keyboard-shortcut first-keystroke="shift meta less" />
   </action>
   <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="ctrl left" />
@@ -116,6 +115,9 @@
   </action>
   <action id="RiderUnitTestOpenTestOutputInEditorAction">
     <keyboard-shortcut first-keystroke="shift ctrl meta 8" />
+  </action>
+  <action id="StepInto">
+    <keyboard-shortcut first-keystroke="f11" />
   </action>
   <action id="SurroundWith">
     <keyboard-shortcut first-keystroke="shift ctrl alt space" />
