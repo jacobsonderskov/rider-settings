@@ -135,5 +135,15 @@
   <action id="android.deploy.CodeSwap">
     <keyboard-shortcut first-keystroke="shift ctrl meta e" />
   </action>
+  <action id="copilot.cycleNextInlays">
+    <keyboard-shortcut first-keystroke="ctrl period" />
+  </action>
+  <action id="copilot.cyclePrevInlays">
+    <keyboard-shortcut first-keystroke="ctrl comma" />
+  </action>
+  <action id="copilot.enableCopilot" />
+  <action id="copilot.requestCompletions">
+    <keyboard-shortcut first-keystroke="meta alt space" />
+  </action>
   <action id="tasks.close" />
 </keymap>
