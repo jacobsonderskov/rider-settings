@@ -12,6 +12,18 @@
   <action id="CheckinProject">
     <keyboard-shortcut first-keystroke="shift meta k" />
   </action>
+  <action id="ChooseDebugConfiguration">
+    <keyboard-shortcut first-keystroke="shift f5" />
+  </action>
+  <action id="ChooseRunConfiguration">
+    <keyboard-shortcut first-keystroke="shift meta f5" />
+  </action>
+  <action id="DatabaseView.DeactivateAction" />
+  <action id="Debug">
+    <keyboard-shortcut first-keystroke="f5" />
+  </action>
+  <action id="Docker.RemoteServers.StopComposeService" />
+  <action id="Docker.RemoteServers.StopContainer" />
   <action id="Git.Clone">
     <keyboard-shortcut first-keystroke="shift ctrl meta o" />
   </action>
@@ -21,5 +33,14 @@
   <action id="Git.Commit.Stage">
     <keyboard-shortcut first-keystroke="shift meta k" />
   </action>
+  <action id="Graph.ApplyCurrentLayout" />
+  <action id="Graph.RouteEdges" />
+  <action id="Resume" />
+  <action id="RiderProjectDiagramApplyCurrentLayout" />
+  <action id="Run">
+    <keyboard-shortcut first-keystroke="meta f5" />
+  </action>
+  <action id="RunDashboard.Stop" />
+  <action id="Stop" />
   <action id="Vcs.Push" />
 </keymap>
