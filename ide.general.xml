@@ -10,7 +10,6 @@
     <entry key="rdclient.asyncActions" value="false" />
     <entry key="external.system.auto.import.disabled" value="true" />
     <entry key="ide.text.editor.with.preview.show.floating.toolbar" value="false" />
-    <entry key="gradle.version.catalogs.dynamic.support" value="true" />
     <entry key="ide.experimental.ui" value="true" />
     <entry key="rider.enable.designer.winForms" value="true" />
   </component>
