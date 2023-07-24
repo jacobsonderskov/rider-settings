@@ -44,6 +44,9 @@
   </action>
   <action id="Graph.ApplyCurrentLayout" />
   <action id="Graph.RouteEdges" />
+  <action id="RerunTests">
+    <keyboard-shortcut first-keystroke="meta u" second-keystroke="u" />
+  </action>
   <action id="RiderProjectDiagramApplyCurrentLayout" />
   <action id="Run">
     <keyboard-shortcut first-keystroke="meta f5" />
@@ -54,5 +57,6 @@
   </action>
   <action id="Stop" />
   <action id="Vcs.Push" />
+  <action id="org.intellij.plugins.markdown.ui.actions.styling.InsertImageAction" />
   <action id="tasks.close" />
 </keymap>
