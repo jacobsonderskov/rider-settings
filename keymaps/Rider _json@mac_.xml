@@ -44,7 +44,6 @@
   </action>
   <action id="Graph.ApplyCurrentLayout" />
   <action id="Graph.RouteEdges" />
-  <action id="Resume" />
   <action id="RiderProjectDiagramApplyCurrentLayout" />
   <action id="Run">
     <keyboard-shortcut first-keystroke="meta f5" />
