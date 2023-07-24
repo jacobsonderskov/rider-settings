@@ -1,4 +1,4 @@
-<keymap version="1" name="Visual Studio (macOS) copy 2" parent="Visual Studio OSX">
+<keymap version="1" name="Rider (json@mac)" parent="Visual Studio OSX">
   <action id="ActivateCommitToolWindow">
     <keyboard-shortcut first-keystroke="shift meta k" />
   </action>
