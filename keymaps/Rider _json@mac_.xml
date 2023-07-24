@@ -46,6 +46,7 @@
   <action id="Graph.RouteEdges" />
   <action id="RerunTests">
     <keyboard-shortcut first-keystroke="meta u" second-keystroke="u" />
+    <keyboard-shortcut first-keystroke="meta enter" second-keystroke="u" />
   </action>
   <action id="RiderProjectDiagramApplyCurrentLayout" />
   <action id="Run">
